@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/master.swiftdeps"
+  },
+  "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.swift": {
+    "dependencies": "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/RealityKitContent.d",
+    "object": "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/RealityKitContent.swift.o",
+    "swiftmodule": "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/RealityKitContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/hhornschuh/Documents/dev/Vision-BBS/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/RealityKitContent.swiftdeps"
+  }
+}
